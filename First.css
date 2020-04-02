@@ -43,7 +43,7 @@ a{
 
 .container1{
     height: 600px;
-    background-image: url(img/spot-bg-01.jpg);
+    background-image: url(spot-bg-01.jpg);
     background-size: cover; 
     background-repeat: no-repeat;
     padding-top: 75px;
@@ -99,7 +99,7 @@ a{
 
 .container3{
     height: 600px;
-    background-image: url(img/spot-bg-02.jpg);
+    background-image: url(spot-bg-02.jpg);
     background-size: cover; 
     background-repeat: no-repeat;
     display: flex;
